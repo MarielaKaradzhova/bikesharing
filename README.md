@@ -2,15 +2,19 @@
 
 ## Visualizations: CitiBike NYC 
 
+
 ### Total Number of Rides
 ![](https://github.com/MarielaKaradzhova/bikesharing/blob/main/resources/number_rides.png)
+
 
 ### Customer Type
 ![](https://github.com/MarielaKaradzhova/bikesharing/blob/main/resources/customer_type.png)
 
+
 ### Gender Breakdown
 
 ![](https://github.com/MarielaKaradzhova/bikesharing/blob/main/resources/gender_breakdown.png)
+
 
 
 ### Number of Trips by User Type
