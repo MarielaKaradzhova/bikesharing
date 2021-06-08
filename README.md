@@ -1,5 +1,6 @@
 # Bikesharing StoryBoard
 
+
 ## Visualizations: CitiBike NYC 
 
 
@@ -25,9 +26,12 @@
 ![](https://github.com/MarielaKaradzhova/bikesharing/blob/main/resources/checkout_gender.png)
 
 
+
 ### Number of Trips by Gender
 ![](https://github.com/MarielaKaradzhova/bikesharing/blob/main/resources/trips_gender.png)
 
 
+
 ### Heatmap of Trips by Weekday
 ![](https://github.com/MarielaKaradzhova/bikesharing/blob/main/resources/heatmap_week.png)
+
